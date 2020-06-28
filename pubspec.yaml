@@ -2,7 +2,7 @@ name: flutter_library_igreatd
 description: A new Flutter package.
 version: 0.0.1
 author: igreatd
-homepage: https://www.igreatd.cn
+homepage: https://github.com/IgreatD/flutter_library.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
